@@ -1,0 +1,46 @@
+[
+    {
+        "product_id": 101,
+        "title": "iPhone 15 Pro",
+        "product_category": "Phone",
+        "price": 1099.99,
+        "product_image": "https://i.ibb.co.com/m5vYtyv/i-Phone-14-Pro.jpg",
+        "product_linkedin": "https://www.linkedin.com/company/apple",
+        "facebook_link": "https://developers.facebook.com/docs/ios/deep-linking/",
+        "instagram_link": "https://help.instagram.com/365696916849749/?helpref=related_articles",
+        "twitter_link": "https://x.com/i/flow/login?redirect_after_login=%2Fapple"
+    },
+    {
+        "product_id": 102,
+        "title": "MacBook Air M2",
+        "product_category": "Laptop",
+        "price": 1199.99,
+        "product_image": "https://i.ibb.co.com/NKY0xLp/Mac-Book-Air-M2.jpg",
+       "product_linkedin": "https://www.linkedin.com/company/apple",
+        "facebook_link": "https://developers.facebook.com/docs/ios/deep-linking/",
+        "instagram_link": "https://help.instagram.com/365696916849749/?helpref=related_articles",
+        "twitter_link": "https://x.com/i/flow/login?redirect_after_login=%2Fapple"
+    },
+    {
+        "product_id": 103,
+        "title": "Wireless Earbuds",
+        "product_category": "Accessories",
+        "price": 249.99,   
+        "product_image": "https://i.ibb.co.com/3yDL5Cp/Air-Phon-Pro-Wireless-Earbuds.jpg",
+        "product_linkedin": "https://www.linkedin.com/company/apple",
+        "facebook_link": "https://developers.facebook.com/docs/ios/deep-linking/",
+        "instagram_link": "https://help.instagram.com/365696916849749/?helpref=related_articles",
+        "twitter_link": "https://x.com/i/flow/login?redirect_after_login=%2Fapple"
+    },
+    {
+        "product_id": 104,
+        "title": "Apple Watch Series 9",
+        "product_category": "Smart Watches",
+        "price": 399.99,
+        "product_image": "https://i.ibb.co.com/3cdkGtz/Smart-Watch-Series-6.jpg",
+       "product_linkedin": "https://www.linkedin.com/company/apple",
+        "facebook_link": "https://developers.facebook.com/docs/ios/deep-linking/",
+        "instagram_link": "https://help.instagram.com/365696916849749/?helpref=related_articles",
+        "twitter_link": "https://x.com/i/flow/login?redirect_after_login=%2Fapple"
+    }
+    ]

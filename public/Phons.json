@@ -1,0 +1,269 @@
+[
+    {
+        "product_id": 101,
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/m5vYtyv/i-Phone-14-Pro.jpg",
+        "product_category": "Phone",
+        "price": 1099.99,
+        "description": "The latest iPhone with advanced camera and performance features.",
+        "specification": [
+            "Display: 6.1-inch Super Retina XDR",
+            "Processor: A16 Bionic chip",
+            "Storage: 128GB, 256GB, 512GB, 1TB",
+            "Camera: Triple 12MP system",
+            "Battery Life: Up to 22 hours",
+            "Operating System: iOS 16",
+            "Water Resistance: IP68",
+            "Face ID: Enabled",
+            "5G: Supported",
+            "Charging: MagSafe and wireless charging",
+            "Color Options: Space Black, Silver, Gold, Deep Purple",
+            "Weight: 206 grams",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 102,
+        "product_title": "Lepton X Pro Laptop",
+        "product_image": "https://i.ibb.co.com/D7yvJhd/Lepton-X-Pro-Laptop.jpg",
+        "product_category": "Laptop",
+        "price": 1199.99,
+        "description": "High-performance laptop with all-day battery life.",
+        "specification": [
+            "Display: 15.6-inch Full HD",
+            "Processor: Intel Core i7 11th Gen",
+            "RAM: 16GB",
+            "Storage: 1TB SSD",
+            "Battery Life: Up to 12 hours",
+            "Operating System: Windows 11 Pro",
+            "Weight: 1.5 kg",
+            "USB Ports: 3 USB-C ports, 2 USB-A ports",
+            "Backlit Keyboard: Yes",
+            "Fingerprint Sensor: Yes",
+            "Warranty: 2-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 103,
+        "product_title": "AirPhon Pro Wireless Earbuds",
+        "product_image": "https://i.ibb.co.com/3yDL5Cp/Air-Phon-Pro-Wireless-Earbuds.jpg",
+        "product_category": "Accessories",
+        "price": 249.99,
+        "description": "Premium wireless earbuds with noise-canceling features.",
+        "specification": [
+            "Driver Size: 12mm",
+            "Noise Cancellation: Active Noise Cancellation",
+            "Battery Life: Up to 24 hours with case",
+            "Charging: Wireless and USB-C",
+            "Bluetooth Version: 5.2",
+            "Water Resistance: IPX4",
+            "Touch Controls: Yes",
+            "Microphone: Dual-mic for clearer calls",
+            "Weight: 50 grams with case",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": 104,
+        "product_title": "Smart Watch Series 6",
+        "product_image": "https://i.ibb.co.com/3cdkGtz/Smart-Watch-Series-6.jpg",
+        "product_category": "Smart Watches",
+        "price": 399.99,
+        "description": "A powerful smartwatch with health monitoring and fitness tracking.",
+        "specification": [
+            "Display: 1.6-inch Retina OLED",
+            "Battery Life: Up to 18 hours",
+            "Water Resistance: 50 meters",
+            "Heart Rate Monitor: Yes",
+            "Blood Oxygen Sensor: Yes",
+            "Operating System: watchOS",
+            "GPS: Built-in",
+            "Bluetooth: 5.0",
+            "Color Options: Silver, Space Gray, Rose Gold",
+            "Compatibility: iOS",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 105,
+        "product_title": "MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/NKY0xLp/Mac-Book-Air-M2.jpg",
+        "product_category": "Laptop",
+        "price": 1299.99,
+        "description": "Apple's ultra-light laptop with powerful M2 chip performance.",
+        "specification": [
+            "Display: 13.6-inch Liquid Retina",
+            "Processor: Apple M2 chip",
+            "RAM: 8GB",
+            "Storage: 256GB SSD",
+            "Battery Life: Up to 18 hours",
+            "Operating System: macOS",
+            "Weight: 1.24 kg",
+            "Thunderbolt Ports: 2 Thunderbolt 4 ports",
+            "Backlit Keyboard: Yes",
+            "Color Options: Space Gray, Silver, Starlight, Midnight",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 106,
+        "product_title": "iPhone 13 Mini",
+        "product_image": "https://i.ibb.co.com/pJJ5cBP/i-Phone-13-Mini.jpg",
+        "product_category": "Phone",
+        "price": 699.99,
+        "description": "Compact and powerful, the iPhone 13 Mini fits in your hand comfortably.",
+        "specification": [
+            "Display: 5.4-inch Super Retina XDR",
+            "Processor: A15 Bionic chip",
+            "Storage: 128GB, 256GB",
+            "Camera: Dual 12MP cameras",
+            "Battery Life: Up to 17 hours",
+            "Operating System: iOS 15",
+            "Water Resistance: IP68",
+            "5G: Supported",
+            "Charging: MagSafe and wireless",
+            "Color Options: Pink, Blue, Midnight, Starlight",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 107,
+        "product_title": "Lepton Ultra Gaming Laptop",
+        "product_image": "https://i.ibb.co.com/9svKL4g/Lepton-Ultra-Gaming-Laptop.jpg",
+        "product_category": "Laptop",
+        "price": 1499.99,
+        "description": "High-performance gaming laptop with dedicated graphics card.",
+        "specification": [
+            "Display: 17.3-inch Full HD 144Hz",
+            "Processor: Intel Core i9",
+            "RAM: 32GB",
+            "Storage: 1TB SSD",
+            "Graphics: NVIDIA RTX 3060",
+            "Battery Life: Up to 8 hours",
+            "Operating System: Windows 11",
+            "USB Ports: 3 USB-C, 2 USB-A",
+            "Cooling System: Advanced cooling",
+            "Warranty: 2-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 108,
+        "product_title": "AirPhon Max Headphones",
+        "product_image": "https://i.ibb.co.com/xmV4tRD/Air-Phon-Max-Headphones.jpg",
+        "product_category": "Accessories",
+        "price": 299.99,
+        "description": "Over-ear wireless headphones with premium sound and comfort.",
+        "specification": [
+            "Driver Size: 40mm",
+            "Noise Cancellation: Active Noise Cancellation",
+            "Battery Life: Up to 25 hours",
+            "Charging: USB-C fast charge",
+            "Bluetooth Version: 5.1",
+            "Weight: 300 grams",
+            "Ear Cushion: Memory foam",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": 109,
+        "product_title": "Smart Watch Fit",
+        "product_image": "https://i.ibb.co.com/gTX3jfS/Smart-Watch-Fit.jpg",
+        "product_category": "Smart Watches",
+        "price": 199.99,
+        "description": "A fitness-focused smartwatch with multiple health tracking features.",
+        "specification": [
+            "Display: 1.4-inch AMOLED",
+            "Battery Life: Up to 10 days",
+            "Water Resistance: 5 ATM",
+            "Heart Rate Monitor: Yes",
+            "Sleep Tracking: Yes",
+            "GPS: Built-in",
+            "Operating System: Proprietary",
+            "Color Options: Black, White, Green",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": 110,
+        "product_title": "MacBook Pro M1",
+        "product_image": "https://i.ibb.co.com/wM14pV6/Mac-Book-Pro-M1.jpg",
+        "product_category": "Laptop",
+        "price": 1999.99,
+        "description": "Professional-grade laptop with Apple's M1 chip.",
+        "specification": [
+            "Display: 16-inch Retina",
+            "Processor: Apple M1 Pro chip",
+            "RAM: 16GB",
+            "Storage: 512GB SSD",
+            "Battery Life: Up to 20 hours",
+            "Operating System: macOS",
+            "Weight: 2.0 kg",
+            "Thunderbolt Ports: 3 Thunderbolt 4 ports",
+            "Backlit Keyboard: Yes",
+            "Color Options: Silver, Space Gray",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 111,
+        "product_title": "iPhone SE (2022)",
+        "product_image": "https://i.ibb.co.com/MMg0h59/i-Phone-SE-2022.jpg",
+        "product_category": "Phone",
+        "price": 429.99,
+        "description": "Compact iPhone with powerful A15 Bionic chip.",
+        "specification": [
+            "Display: 4.7-inch Retina HD",
+            "Processor: A15 Bionic chip",
+            "Storage: 64GB, 128GB",
+            "Camera: 12MP single-camera",
+            "Battery Life: Up to 15 hours",
+            "Operating System: iOS 15",
+            "Water Resistance: IP67",
+            "5G: Supported",
+            "Warranty: 1-year limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+   
+    {
+        "product_id": 112,
+        "product_title": "AirPhon Lite Earbuds",
+        "product_image": "https://i.ibb.co.com/BgCLZWk/Air-Phon-Lite-Earbuds.jpg",
+        "product_category": "Accessories",
+        "price": 79.99,
+        "description": "Affordable wireless earbuds with decent sound quality.",
+        "specification": [
+            "Battery Life: Up to 12 hours",
+            "Charging: USB-C",
+            "Bluetooth Version: 5.0",
+            "Water Resistance: IPX3",
+            "Color Options: Black, White",
+            "Warranty: 6-month limited warranty"
+        ],
+        "availability": true,
+        "rating": 4.0
+    }
+    
+   
+]
